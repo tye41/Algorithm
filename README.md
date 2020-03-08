@@ -1,2 +1,2 @@
-# Alogrithm
+# Algorithm
  The alogrithm of ml
